@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35f106f46f8ca2f49b7c5ef59fa3cd79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - block: {instanceID: 0}
+  - audioWin: {fileID: 8300000, guid: a84dd6c1635d6e443b18ebb19b2b30ab, type: 3}
+  - audioGameOver: {fileID: 8300000, guid: 60b8bc14f2d82bc48895203c4889d9b8, type: 3}
+  executionOrder: 0
+  icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
